@@ -8,7 +8,7 @@ int main()
     char encode[1024] = {0};
     int divisor[] = {1,0,0,0,0,0,1,1,1};
     printf("CRC-8 Generator\n");
-    printf("7bit ASCII code\n");
+    printf("8bit ASCII code\n");
     printf("Divisor : x^8+x^2+x+1 (100000111)\n\n");
     printf("  Data\t: ");
     
